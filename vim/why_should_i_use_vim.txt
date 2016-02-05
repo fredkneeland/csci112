@@ -1,0 +1,9 @@
+Why Should you use vim?
+
+1. VIM is the most common and flexible text editor in the world. As a senior in computer science I have used vim to work in many different languages much more efficiently than trying to use a specific IDE for each language.
+2. If there is bash there is vim.  
+3. VIM is commonly used in industry level applications.
+4. 
+
+
+
